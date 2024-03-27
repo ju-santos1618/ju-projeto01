@@ -4,10 +4,10 @@
     padding: 0;
 }
     .cabecalho {
-        background-color: #1131e6;
-        
+        background-color: #72ec41;
+        color: rgb(18, 32, 221);
         display: flex;
         justify-content: space-around;
         align-items: center;
-        cabeçalho imagem ;color: rgb(35, 47, 212);
+        
     }
