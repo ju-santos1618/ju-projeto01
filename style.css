@@ -1,8 +1,4 @@
 
-*{
-    margin: 0;
-    padding: 0;
-}
     .cabecalho {
         background-color: #58376b;
         color: rgb(180, 150, 17);
@@ -13,11 +9,15 @@
     }
 
     .cabecalho-imagem{
-        width: 14px; 
+        width: 120px;
     }
     @import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,400;0,500;0,700;0,900;1,400;1,500;1,700;1,900&display=swap')
+
 </style>
 *{
     padding: 0;
     margin: 0;
+}
+body{
+    font-family: "Roboto", sans-serif;
 }
